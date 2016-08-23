@@ -1,0 +1,6 @@
+c:\users\eduardo\documents\visual studio 2012\Projects\ConsoleAppServer\ConsoleAppServer\bin\Debug\ConsoleAppServer.exe.config
+c:\users\eduardo\documents\visual studio 2012\Projects\ConsoleAppServer\ConsoleAppServer\bin\Debug\ConsoleAppServer.exe
+c:\users\eduardo\documents\visual studio 2012\Projects\ConsoleAppServer\ConsoleAppServer\bin\Debug\ConsoleAppServer.pdb
+c:\users\eduardo\documents\visual studio 2012\Projects\ConsoleAppServer\ConsoleAppServer\obj\Debug\ConsoleAppServer.csprojResolveAssemblyReference.cache
+c:\users\eduardo\documents\visual studio 2012\Projects\ConsoleAppServer\ConsoleAppServer\obj\Debug\ConsoleAppServer.exe
+c:\users\eduardo\documents\visual studio 2012\Projects\ConsoleAppServer\ConsoleAppServer\obj\Debug\ConsoleAppServer.pdb
